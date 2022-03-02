@@ -1,0 +1,35 @@
+body {
+    background-color: skyblue;
+    color: black;
+    font-size: 16px;
+
+}
+
+h1 {
+    font-size: 45px;
+    text-align: center;
+}
+
+div {
+    margin: auto;
+    text-align: center;
+    width: 450px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+
+h2 {
+    font-size: 22px;
+
+}
+
+p strong {
+    color: rgb(77, 77, 204);
+}
+
+p a {
+    text-decoration: none;
+    text-decoration: ;
+}
